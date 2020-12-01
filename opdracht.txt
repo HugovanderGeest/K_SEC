@@ -1,0 +1,11 @@
+opdracht 1
+
+openssl_public_encrypt, openssl_seal
+openssl_encrypt, mcrypt_encrypt()
+
+
+opdracht 2
+2048 bits en 245 bytes
+
+opdracht 3 
+gebruik geen inteletge maar heb het wel doorgelezen 
