@@ -1,4 +1,0 @@
-- openssl_public_encrypt
-- openssl_seal
-- openssl_encrypt
-- mcrypt_encrypt()
